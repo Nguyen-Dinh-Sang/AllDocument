@@ -1,0 +1,27 @@
+--- Web có 2 loại:
+	--- Web động.
+	--- Web tĩnh.
+
+--- Hệ quản trị cơ sở dữ liệu:
+	--- SQL.
+	--- NoSQL.
+
+--- Kiểu dữ liệu trong SQL: https://vinasupport.com/postgresql-cac-kieu-du-lieu-data-types/
+	--- Character: chuỗi dữ liệu.
+		--- text: chuỗi dài, thoải mái, co giãn giống varchar.
+		--- ví dụ: username VARCHAR (50)
+		--- varchar: nó không chiếm bộ nhớ 50 kí tự, nó chỉ chiếm vừa đủ dùng.
+		--- char: chiếm luôn 50 kí tự.
+
+	--- Date: lưu time.
+	--- Number: số.
+	--- ...: file data...
+	--- boolean: lưu 2 giá trị true hoặc false, lưu 1 hoặc 0.
+
+--- Tạo bảng: https://sqliteonline.com/
+	CREATE TABLE BaiViet (
+		TieuDe VARCHAR(100),
+  		NoiDung VARCHAR(1000),
+  		LoaiBaiViet NUMERIC
+	)
+	

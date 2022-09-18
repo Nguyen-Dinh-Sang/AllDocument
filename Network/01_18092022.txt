@@ -1,0 +1,22 @@
+--- Mạng máy tính:
+	--- tập hợp các máy tính được kết nối với nhau.
+
+--- Trang web hoạt động:
+	--- http://thptluongthevinh.edu.vn/: domain.
+	--- ip: định danh thiết bị trong mạng máy tính.
+		--- ip v4: max 255.255.255.255
+				255.255.255.1
+				255.255.255.2
+		--- ip v6:
+		--- cách chia ip:
+			255.255.255.10 - 255.100
+			255.255.255.100 - 255.200
+
+		--- ip tĩnh: set cứng cho mỗi thiết bị.
+		--- ip động: luân chuyển.
+
+	--- port: định danh ứng dụng trong máy tính.
+
+--- Phân giải tên miền: http://thptluongthevinh.edu.vn/ -->> ip port.
+--- Ping:
+
