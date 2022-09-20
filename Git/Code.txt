@@ -1,2 +1,8 @@
---- Clone source code: 	git clone + link project
---- Kiểm tra file:	git status
+--- Clone source code: 			git clone + link project
+--- Kiểm tra file:	 		git status
+--- Xem danh sách thư mục:		ls
+--- Xóa màn hình:			Ctrl + L
+--- Di chuyển vào trong thư mục:	cd + tên thư mục
+--- Thêm file vào git:			git add + tên file
+--- Commit:				git commit -m ""
+--- Đẩy code lên gitHub			git push

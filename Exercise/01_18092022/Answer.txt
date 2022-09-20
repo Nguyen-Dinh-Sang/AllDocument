@@ -10,3 +10,12 @@ CREATE TABLE Nhan_Vien (
 )
 
 DROP TABLE Nhan_Vien
+
+INSERT INTO Nhan_Vien(stt, phongba, manhanvien, hoten, chucvu, quanly, mucluong, ngaysinh)
+VALUES 				(1, "TEC", "SSG001", "Nguyễn Văn A", "Nhân Viên", "", 100000, '1999-16-01')
+
+INSERT INTO Nhan_Vien(stt, phongba, manhanvien, hoten, chucvu, quanly, mucluong, ngaysinh)
+VALUES 				(1, "TEC", "SSG001", "Nguyễn Văn A", "Nhân Viên", "", 100000, '1999-16-01')
+
+SELECT *
+FROM Nhan_Vien
