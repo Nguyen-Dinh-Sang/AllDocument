@@ -1,1 +1,2 @@
---- Clone source code: git clone + link project.
+--- Clone source code: 	git clone + link project
+--- Kiểm tra file:	git status
