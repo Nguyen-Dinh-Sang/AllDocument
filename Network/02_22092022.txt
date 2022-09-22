@@ -1,0 +1,24 @@
+-- Gói tin: file lớn chia ra thành nhiều gói nhỏ -> gửi đi ->.
+-- Mã hóa:
+	- Mã hóa đối xướng: RC5, 
+		-- 2 máy tính truyền dữ liệu cho nhau.
+		-- gói tin được mã hóa bằng key chung.
+		-- đơn giản.
+		-- dễ bị lộ.
+
+	- Mã hóa bất đối xứng: RSA,
+		-- 1 máy truyền tin cho 1 máy:
+		-- dùng 2 khóa: khóa bí mật, khóa công khai.
+		-- A muốn gửi tin cho B
+			A hỏi khóa công khai của B.
+			B cho khóa -> A lấy khóa mã hóa tin gửi cho B.
+			B nhận được dùng khóa bí mật giải mã đọc được tin.
+
+		-- gói tin giống thùng đựng đồ:
+			A gửi đồ cho B, hỏi lấy ổ khóa.
+			A bỏ đồ vô thùng móc khóa bấm lại.
+			B nhận được thùng có khóa, lấy chìa khóa mở ra lấy đồ.
+
+	-- Mã hóa lai.
+
+	
