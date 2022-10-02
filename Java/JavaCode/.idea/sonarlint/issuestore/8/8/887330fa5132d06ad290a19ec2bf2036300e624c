@@ -1,0 +1,12 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ÏÏ•‰ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İè‰ ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›ÈÜ‚
+N	java:S106"9Replace this use of System.out or System.err by a logger.(üà‡ƒ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(¸šä¦
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(Æ”8ŞàÌÊ¹0
+X
+java:S1854+"=Remove this useless assignment to local variable "sinhVien3".(ıË‚ıÿÿÿÿ
+I
+java:S1481+".Remove this unused "sinhVien3" local variable.(ıË‚ıÿÿÿÿ
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(ÜæÒ¾8ÒÉøÊ¹0
