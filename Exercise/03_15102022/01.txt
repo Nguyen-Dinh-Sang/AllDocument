@@ -1,0 +1,9 @@
+1. Cho biết điểm thi tất cả các môn của thí sinh có số báo danh là 1234.
+
+2. Cho biết các thí sinh có ít nhất 1 môn thi nào đó 
+	bị điểm 0 hoặc vắng thi 2022.
+3. Tìm các thí sinh dự thi năm 2022 mà không thi môn nào hết (ghi chú = vắng).
+4. Tìm các thí sinh có tất cả điểm thi năm 2022 và điểm tất cả lớn hơn 8.
+5. Tìm thí sinh không thi đủ môn (có vắng thi).
+6. Tìm các thí sinh cùng trường với thí sinh có số báo danh là 1234.
+7. Tìm thí sinh họ tên có chữ "Thị".
