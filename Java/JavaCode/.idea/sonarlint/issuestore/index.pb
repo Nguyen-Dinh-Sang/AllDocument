@@ -43,11 +43,3 @@ S
 #src/com/javacode/slide3/Demo20.java,b\c\bc653dd39e4bf7cba113d9ad884476585b9b086c
 U
 %src/com/javacode/slide4/SinhVien.java,4\b\4b2f322153c2791047fe8b421ccc398a30484dd4
-T
-$src/com/javacode/slide1/BaiTap1.java,d\4\d438daa309fe4d89392a6b63dcfb6183c77abb85
-Q
-!src/com/javacode/oop/ThiSinh.java,a\6\a6e929bc602d6d76804cb472934752d3855cdf58
-P
- src/com/javacode/oop/MonThi.java,4\0\4046a9954fd482b80a3e149ca8181a3b179fded3
-P
- src/com/javacode/oop/Truong.java,f\5\f5d5247025a745d8d138dd56b249f2a0b7a93633
